@@ -11,8 +11,8 @@
 
 <div align="center"> 
 
-
-<a href = "reinaldovcaetano@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href="mailto:reinaldo.caetano@fatec.sp.gov.br" target="_blank"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoftoutlook&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href = "mailto:reinaldovcaetano@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 <a href="https://www.linkedin.com/in/reinaldovitorcaetano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href="https://discord.gg/cFZUA7wu" target="_blank"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord" style="border-radius: 30px" target="_blank"></a> 
 
