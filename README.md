@@ -6,7 +6,9 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ReinaldoCaetano&show_icons=true&count_private=true&hide_border=true&title_color=473C8B&icon_color=473C8B&text_color=000000&bg_color=B0C4DE" alt="Reinaldo Caetano github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinaldoCaetano&layout=compact&hide_border=true&title_color=473C8B&text_color=000000&bg_color=B0C4DE" />
+  <img width="49%" height="195px"  
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinaldoCaetano&layout=compact&hide_border=true&title_color=473C8B&text_color=010103&bg_color=B0C4DE"
+/>
 </div>
 
 <div align="center"> 
