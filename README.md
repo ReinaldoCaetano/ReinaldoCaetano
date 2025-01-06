@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=473C8B&height=120&section=header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=473C8B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Reinaldo+Caetano;I'm+28+years+old;Be+Welcome!:%29"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=473C8B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Reinaldo+Caetano;I'm+30+years+old;Be+Welcome!:%29"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ReinaldoCaetano&bg_color=B0C4DE&color=473C8B&line=473C8B&point=473C8B&area=true&hide_border=true&radius=14"/>
 
